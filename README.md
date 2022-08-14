@@ -1,4 +1,5 @@
-## Olá! Eu sou o Frederico Tavares! 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat+Alternates&size=30&duration=2000&pause=1500&color=8C03C0&width=435&lines=Ol%C3%A1!+%F0%9F%91%8B+;Bem+vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+## Eu sou o Frederico Tavares!
 ### Mas pode me chamar de Fred! 🌌
 
 • Atualmente estou estudando desenvolvimento web na Trybe 🚀
