@@ -14,7 +14,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Fred-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fred-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Fred-gif" height="150" style="border-radius:50px;" src="https://github.com/FredericoTP/files/blob/main/QmUsMpgL2h8kYMdedVcY62YVWC3gDxovZ3ymiGtYE6qWZm.gif?raw=true">
+  <img alt="Fred-gif" height="150" style="border-radius:50px;" src="https://github.com/FredericoTP/files/blob/main/QmUsMpgL2h8kYMdedVcY62YVWC3gDxovZ3ymiGtYE6qWZm.gif?raw=true">
 </div>
 
 ##
+
+![ezgif-4-c1df644fcbmenor](https://user-images.githubusercontent.com/110496980/184540944-9f7da9f9-858a-440e-8391-ff2d575682d9.gif)
