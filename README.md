@@ -21,6 +21,7 @@
   <img alt="Fred-RTL" height="50" width="40" src="https://testing-library.com/img/logo-large.png" alt="rtl icon" />
   <img alt="Fred-REDUX" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img alt="Fred-DOCKER" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img alt="Fred-MySQL" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
   
 ##
