@@ -39,11 +39,11 @@
   
 ### Testes:
 <div style="display: inline_block">
-  <img alt="Fred-JEST" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
-  <img alt="Fred-RTL" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
-  <img alt="Fred-MOCHA" src="https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown" />
-  <img alt="Fred-CHAI" src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red" />
-  <img alt="Fred-SINON" src="https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon" />
+  <img alt="Fred-JEST" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img alt="Fred-RTL" src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=TestingLibrary&logoColor=white" />
+  <img alt="Fred-MOCHA" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
+  <img alt="Fred-CHAI" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
+  <img alt="Fred-SINON" src="https://img.shields.io/badge/sinon-323330?style=for-the-badge&logo=sinon" />
 </div>
   
 ##
