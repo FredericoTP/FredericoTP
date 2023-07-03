@@ -16,6 +16,7 @@
 <div style="display: inline_block">
   <img alt="Fred-JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Fred-TS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Fred-PYTHON" src="https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=" />
 </div>
  
 ### Front-end:
@@ -44,6 +45,7 @@
   <img alt="Fred-MOCHA" src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" />
   <img alt="Fred-CHAI" src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" />
   <img alt="Fred-SINON" src="https://img.shields.io/badge/sinon-323330?style=for-the-badge&logo=sinon" />
+  <img alt="Fred-PYTEST" src="https://img.shields.io/static/v1?style=for-the-badge&message=Pytest&color=0A9EDC&logo=Pytest&logoColor=FFFFFF&label=" />
 </div>
   
 ##
